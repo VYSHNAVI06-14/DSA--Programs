@@ -8,10 +8,11 @@ class RemoveElement {
                 k++;
              }
          }
+
          return k;
     }
     public static void main(String[]args){
-        int []nums={1,1,2}
+        int []nums={1,1,2};
         int k=removeDuplicates(nums);
         System.out.println(k);
         System.out.print("nums=");
