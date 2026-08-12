@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ZeroToEnd {
+public class ZerotoEnd {
     public static void main(String[] args) {
         int[] arr = {0, 2, 0, 5, 6, 0, 3};
 
