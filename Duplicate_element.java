@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class DuplicateElement
+public class Duplicate_element
  {
     public static void main(String[] args)
  {
