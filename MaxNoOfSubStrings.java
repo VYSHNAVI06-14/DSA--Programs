@@ -3,6 +3,7 @@ public class MaxNoOfSubStrings {
   public static void main(String[]args){
    String s="adefaddaccc";
    System.out.print(Cal(s));
+   
   }
   public static List<String> Cal(String s){
     // String s="adefaddaccc";
